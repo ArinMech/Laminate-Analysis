@@ -8,9 +8,8 @@ E2PW = 6.0263e+10; #Pa, estimate
 nu12PW = 0.04; #Room Temperature Ambient, Data sheet
 G12PW = 4.21e+9; #Pa, Data sheet
 t_PW = .2032; #mm
-print("Hello World")X
 
-E1UD = 1.63e+11; #Pa, Experimentally Gathered
+E3UD = 1.63e+11; #Pa, Experimentally Gathered
 E2UD = 8.41e+9; #Pa, estimate
 nu12UD = 0.31; #Room Temperature Ambient, Data sheet
 nu21UD = 0.01599 #Calculated
